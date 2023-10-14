@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tasktwo/static/css/main.899c5fc5.css",
+    "main.js": "/react-tasktwo/static/js/main.f256ce72.js",
+    "index.html": "/react-tasktwo/index.html",
+    "main.899c5fc5.css.map": "/react-tasktwo/static/css/main.899c5fc5.css.map",
+    "main.f256ce72.js.map": "/react-tasktwo/static/js/main.f256ce72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.899c5fc5.css",
+    "static/js/main.f256ce72.js"
+  ]
+}
